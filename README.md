@@ -13,8 +13,8 @@ The ULMFiT approach can be braodly explained in the 3 major steps as shown below
 ![](https://miro.medium.com/max/2000/1*9n9yv4EalUn76yP1Yffhfw.png 'The ULMFiT Process')
 
 ## Dependencies 
-- Fastai2 ```pip install fastai2 --quiet```
-- Kaggle API ```pip install kaggle  --quiet```
+- Fastai2: ```pip install fastai2 --quiet```
+- Kaggle API:  ```pip install kaggle  --quiet```
 
 ## References
 
