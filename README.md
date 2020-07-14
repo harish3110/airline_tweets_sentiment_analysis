@@ -1,6 +1,6 @@
 # About
 
-This repository contains code for building a Sentiment Classifier on Kaggle's [Twitter Airlines Tweets](https://www.kaggle.com/crowdflower/twitter-airline-sentiment#Tweets.csv) by using the famous [ULMFiT] approach and decoding the methodologies used in the paper. 
+This repository contains code for building a Sentiment Classifier on Kaggle's [Twitter Airlines Tweets](https://www.kaggle.com/crowdflower/twitter-airline-sentiment#Tweets.csv) by using the famous [ULMFiT]() approach and decoding the methodologies used in the paper. 
 
 ## The ULMFiT approach
 The Universal Language Model Fine-tuning (ULMFiT) is an inductive transfer learning approach developed by Jeremy Howard and Sebastian Ruder to all the tasks in the domain of natural language processing which sparked the usage of transfer learning in NLP tasks. 
